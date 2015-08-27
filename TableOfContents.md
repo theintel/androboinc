@@ -1,0 +1,7 @@
+  * [↑ AndroBOINC Wiki Home](WikiMain.md)
+  * [How to setup AndroBOINC](HowToSetup.md)
+    * [BOINC setup on Linux](BOINCSetupLinux.md)
+    * [BOINC setup on Mac OS-X](BOINCSetupMacOSX.md)
+    * [BOINC setup on Windows](BOINCSetupWindows.md)
+  * [Screenshots](ScreenShots.md)
+  * [FAQ](FrequentlyAskedQuestions.md)
